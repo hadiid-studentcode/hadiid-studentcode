@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Hadiid Andri Yulison**.\
 
 Saya seorang **fullstack developer** di [MY IPM ](https://my.ipm.or.id//).\
 
